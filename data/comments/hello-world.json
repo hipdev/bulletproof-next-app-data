@@ -14,5 +14,13 @@
     "content": "otro comentario",
     "createdAt": 1596901393121,
     "id": "uBScS0KH7m7zGh3C7FbfpFX6IXJSk1"
+  },
+  {
+    "userId": "user-id",
+    "name": "The User",
+    "avatar": "https://api.adorable.io/avatars/255/the-user@email.png",
+    "content": "otro mas",
+    "createdAt": 1596901403630,
+    "id": "kl8BgM3bWcbTc2tahKFtU8M9BjxRDv"
   }
 ]
